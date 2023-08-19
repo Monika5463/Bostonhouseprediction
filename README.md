@@ -4,8 +4,7 @@
 
 1. [github account](https://github.com)
 2. [vs code IDE](https://code.visualstudio.com/)
-3. [herouku account](https://heroku.com)
-4. [git CLI](https://git-scm.com/book/en/v2/Getting-Started-The-Command-Line)
+3. [git CLI](https://git-scm.com/book/en/v2/Getting-Started-The-Command-Line)
 
 
 
